@@ -1,4 +1,4 @@
-## Hi there 👋
+# > Fresh start & new place to store long term projects - surely they wont all end up half completed 👀
 
 <!--
 **dotnetbenji/dotnetbenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
